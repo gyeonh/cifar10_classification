@@ -1,2 +1,8 @@
-# simgi_pjt
-심화학습기초 Term project
+# cifar10_classification project
+
+**GPUS 부분 본인의 상황에 맞게 변경 필요**
+
+train.py
+
+test.py
+
